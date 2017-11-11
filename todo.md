@@ -24,15 +24,14 @@
 - folder / index	
 - map of projects, computers, locations, purposes	
 - [map of computers](computers.html)
-	
-kids
-----
-- soccer shoes
+
+## kids
+
 - excersize
 - projects	
-	
-financial
----------
+
+## financial
+
 - budget / tracker / upcomming expenses ...
 - move everything to CIBC
 
