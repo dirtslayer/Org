@@ -1,25 +1,20 @@
-
+# todo.md Darrells Todo List
 	
-house
------
-- folder	
-- pile of toys	
-- bookshelf and books sorted 	
+## house
+
 - blinds antals room and spare room
 - water tank research make project
 - clean ducts
 - new bathroom
 - furnace inspection
 - sandy 7803951696
-- downstairs window
 - electrical covers
+- downstairs light
 - fuse box fuse trips
-- downstairs lights
 - livingroom lighting
 
-vehicles
---------
-- folder / index	
+## vehicles
+
 - glass sv6
 - rear tail light sv6
 - winterize both vehicles
