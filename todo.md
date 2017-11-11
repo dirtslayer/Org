@@ -19,8 +19,8 @@
 - rear tail light sv6
 - winterize both vehicles
 
-computing
----------
+## computing
+
 - folder / index	
 - map of projects, computers, locations, purposes	
 - [map of computers](computers.html)
