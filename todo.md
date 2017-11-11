@@ -18,6 +18,7 @@
 - glass sv6
 - rear tail light sv6
 - winterize both vehicles
+- check tires
 
 ## computing
 
