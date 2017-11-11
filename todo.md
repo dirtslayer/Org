@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <link href="css/styles.css" rel="stylesheet">
-	<title>Darrells Todo Project</title>
-  </head>
-  <body>
-<xmp  theme="united" style="display:none;">
+
 	
 house
 -----
@@ -48,8 +41,3 @@ financial
 - budget / tracker / upcomming expenses ...
 - move everything to CIBC
 
-
-	</xmp>
-	<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
-  </body>
-</html>		
