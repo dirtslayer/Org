@@ -1,38 +1,30 @@
 # todo.md Darrells Todo List
 	
 ## house
-
-- blinds antals room and spare room
-- water tank research make project
+- alarms
+- insurance
+- blinds north rooms
 - clean ducts
 - new bathroom
-- furnace inspection
-- sandy 7803951696
 - electrical covers
 - downstairs light
 - fuse box fuse trips
-- livingroom lighting
+- living room lighting
 
 ## vehicles
-
+- insurance
 - glass sv6
 - rear tail light sv6
-- winterize both vehicles
-- check tires
 
 ## computing
-
-- folder / index	
-- map of projects, computers, locations, purposes	
-- [map of computers](computers.html)
+- online courses 
+- map locations / purposes
 
 ## kids
-
-- excersize
+- exercise
 - projects	
 
 ## financial
-
-- budget / tracker / upcomming expenses ...
-- move everything to CIBC
+- budget / tracker / upcoming expenses
+- move everything to CIBC 
 
