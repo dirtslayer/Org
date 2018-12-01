@@ -23,6 +23,7 @@ Success is your reward. Review work done so that we can feel good about our succ
 
 1. set aside time everyday
 2. involve other people (find mentors)
+3. track progress
 
 ## Health and happiness
 
