@@ -28,5 +28,7 @@ Success is your reward. Review work done so that we can feel good about our succ
 
 1. eat, sleep and excersize daily
 2. involve kids
+3. cleanliness and diet
+
 
 
