@@ -10,7 +10,7 @@ In order to get enough ammo you will either need to completely empty a major loc
 
 Spliting loot with another player is not a good idea, so split up early and team later.
 
-Early in the match find one weapon you absolutely need and put it in the number 2 slot and steal ammo from every weapon on the ground. If you are not holding the number 2 weapon, when you pick up something it goes to #1, and, if you pick up whatever is in #2 you will empty the ammo from that weapon. Try to keep the SMG in the #2 slot and pick up every AR, AK, hunting, sniper, 50, and SCAR until you have 200 rifle (green ammo). if you end uo with less. Use the #3, 4 or 5 slots to run around and loot because it you move faster.
+Early in the match find one weapon you absolutely need and put it in the number 2 slot and steal ammo from every weapon on the ground. If you are not holding the number 2 weapon, when you pick up something it goes to #1, and, if you pick up whatever is in #2 you will empty the ammo from that weapon. Try to keep the SMG in the #2 slot and pick up every AR, AK, hunting, sniper, 50, and SCAR until you have 200 rifle (green ammo). Use the #3, 4 or 5 slots to run around and loot because you move faster.
 
 ## Fun Fact
 
