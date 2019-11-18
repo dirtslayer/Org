@@ -2,7 +2,7 @@
 
 ## Mindset 
 
-Zbr is a race, you are unlikely to win by sitting still, you must be working hard to loot and kill the entire match.
+Zbr is a race that you are unlikely to win by sitting still. You must be working hard to loot and kill the entire match.
 
 ## Looting
 
