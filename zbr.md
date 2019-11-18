@@ -20,7 +20,7 @@ The Sub Machine Gun was modified for the zbr game mode to accept the 50 round ma
 
 Basically you want to aviod fighting more than 1 at a time in close. Your primary concern isnt killing, but not dying. Have one CQC (close quarters combat) weapon ready. I like to use the shotgun early to conserve ammo for smg and Ak/AR/SCAR later in the round. 
 
-If you are far run towards the zombies, if you are close back up. If they are doing damage they will try to get under you, so strafe around them as you jimp and fire down.
+If you are far run towards the zombies, if you are close back up. If they are doing damage they will try to get under you, so strafe around them as you jump and fire down.
 
 ## End Game
 
