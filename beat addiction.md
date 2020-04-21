@@ -2,6 +2,9 @@
 notes from [12 Ways to Beat Addiction
 By Therese J. Borchard](https://psychcentral.com/blog/12-ways-to-beat-addiction/)
 
+
+![420](https://i.ytimg.com/vi/gkzImgsIdTM/maxresdefault.jpg)
+
 ## 1. Get Some Buddies
 Use friends to remind you things will get better.
 
