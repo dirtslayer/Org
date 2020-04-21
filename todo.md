@@ -1,30 +1,35 @@
 # todo.md Darrells Todo List
 	
 ## house
-- alarms
-- insurance
-- blinds north rooms
-- clean ducts
-- new bathroom
-- electrical covers
-- downstairs light
-- fuse box fuse trips
-- living room lighting
+- [ ] alarms
+- [x] insurance
+- [x] blinds north rooms
+- [ ] clean ducts
+- [ ] new bathroom
+- [ ] electrical covers
+- [ ] downstairs light
+- [ ] fuse box fuse trips
+- [ ] living room lighting
+- [ ] kitchen floor
 
 ## vehicles
-- insurance
-- glass sv6
-- rear tail light sv6
+- [x] insurance
+- [x] registration (find paper)
+- [ ] hose clamp powersteering old car
+- [ ] condensation in headlight old car
+- [ ] DETAIL BOTH CARS
 
 ## computing
-- online courses 
-- map locations / purposes
+- [ ] online courses - UDEMY javascript 
+- [ ] map locations / purposes
+- [ ] update keepass
 
 ## kids
-- exercise
-- projects	
+- [ ] exercise
+- [ ] projects	
 
 ## financial
-- budget / tracker / upcoming expenses
-- move everything to CIBC 
+- [ ] budget / tracker / upcoming expenses
+- [ ] move everything to CIBC ... car loan?
+
 
