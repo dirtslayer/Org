@@ -1,5 +1,5 @@
 # Beat Addiction
-notes from https://psychcentral.com/blog/12-ways-to-beat-addiction/
+notes from (https://psychcentral.com/blog/12-ways-to-beat-addiction/)
 
 ## 1. Get Some Buddies
 Use friends to remind you things will get better.
